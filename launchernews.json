@@ -2,14 +2,14 @@
   "data": {
     "news": [
       {
-        "title": "CyBall Updates — Reborn v1.2",
-        "brief": "CyBall Reborn v1.2 (Inventory System and Cyrum support) releasing on the 20th September @ 2pm UTC on CyBall homepage. Windows, Android, macOS and iOS are all supported.",
-        "link": "https://cyballofficial.medium.com/cyball-development-updates-reborn-v1-2-6c9686eabe8d"
-      },
-      {
         "title": "CyBall is coming to @0xPolygon!",
         "brief": "We are proud and excited to announce that we will be expanding our ecosystem to #Polygon\nWe're proud to stand alongside other world-class names that call Polygon home.\n@PolygonStudios",
         "link": "https://cyballofficial.medium.com/cyball-expands-onto-polygon-4ce9e891138e"
+      },
+      {
+        "title": "CyBall Updates — Reborn v1.2",
+        "brief": "CyBall Reborn v1.2 (Inventory System and Cyrum support) releasing on the 20th September @ 2pm UTC on CyBall homepage. Windows, Android, macOS and iOS are all supported.",
+        "link": "https://cyballofficial.medium.com/cyball-development-updates-reborn-v1-2-6c9686eabe8d"
       }
     ]
   }
